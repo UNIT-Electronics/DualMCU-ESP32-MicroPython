@@ -15,6 +15,7 @@ Dirígete a *"Ejecutar"* -> *"Configurar intérprete"*  para completar la config
 ### Actualización de firmware 
 Para poder utilizar MicroPython, es recomendable considerar la actualización. Por lo tanto, es necesario iniciar tu DualMCU ESP32 presionando el botón de FLASH.
 
+![flash](./img/ESP32-Flash_Button.jpg)
 
 1. Da clic en "Instalar o Actualizar MicroPython".
 
@@ -71,4 +72,6 @@ Una vez que hayas realizado todas las configuraciones y conexiones necesarias, p
 
 ## Expande tu conocimiento 
 
-Para que continues aprendiendo, se te recomienda visitar nuestro repositorio de la [DualMCU](https://github.com/UNIT-Electronics/DualMCU).
+Para que continues aprendiendo, se te recomienda visitar el repositorio completo referente a la [DualMCU](https://github.com/UNIT-Electronics/DualMCU).
+
+![DualMCU](./img/EU0002-DUALMCU%20V3.1.2.jpg)
