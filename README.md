@@ -68,3 +68,7 @@ loop()
 Una vez que hayas realizado todas las configuraciones y conexiones necesarias, podrás ver el proyecto en funcionamiento.
 
 ![LedRGB](./img/blink_led2.gif)
+
+## Expande tu conocimiento 
+
+Para que continues aprendiendo, se te recomienda visitar nuestro repositorio de la [DualMCU](https://github.com/UNIT-Electronics/DualMCU).
