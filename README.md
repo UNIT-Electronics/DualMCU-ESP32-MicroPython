@@ -35,8 +35,11 @@ Dentro de la carpeta Ejemplos, encontrarás un ejemplo básico llamado "blink" q
 
 ```python
 '''
-file: blink.py
-author: Cesar Bautista
+Unit Electronics 2023
+       (o_
+(o_    //\
+(/)_   V_/_ 
+
 version: 0.0.1
 revision: 0.0.1
 context: This code is a basic configuration of three RGB Led's
