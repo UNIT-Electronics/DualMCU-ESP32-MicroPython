@@ -33,7 +33,7 @@ Una vez que hayas configurado el entorno, puedes abrir y ejecutar el ejemplo.
 
 Dentro de la carpeta Ejemplos, encontrarás un ejemplo básico llamado "blink" que puedes utilizar para verificar que la configuración se aplicó correctamente.
 
-```
+```python
 '''
 file: blink.py
 author: Cesar Bautista
