@@ -10,7 +10,7 @@ Antes de comenzar, se recomienda realizar la siguiente configuración:
 
 Dirígete a *"Ejecutar"* -> *"Configurar intérprete"*  para completar la configuración.
 
- ![Interpeter](img\config_intepeter.png)
+ ![Interpeter](./img/config_intepeter.png)
 
 ### Actualización de firmware 
 Para poder utilizar MicroPython, es recomendable considerar la actualización. Por lo tanto, es necesario iniciar tu DualMCU ESP32 presionando el botón de FLASH.
@@ -22,7 +22,7 @@ Para poder utilizar MicroPython, es recomendable considerar la actualización. P
     - Se recomienda utilizar la siguiente configuración: 
         - Variant: Espessif ESP32/WROOM
         - Version: 1.20.0
-![instalador](img\instalador.png)
+![instalador](./img/instalador.png)
 1. Presionar instalar (esperar a que termine la instalacion).
 
 
@@ -67,4 +67,22 @@ loop()
 ## Proyecto en funcionamiento
 Una vez que hayas realizado todas las configuraciones y conexiones necesarias, podrás ver el proyecto en funcionamiento.
 
-![LedRGB](img\blink_led2.gif)
+![LedRGB](./img/blink_led2.gif)
+## Expande tu conocimiento 
+
+Para que continues aprendiendo, se te recomienda visitar el repositorio completo referente a la [DualMCU](https://github.com/UNIT-Electronics/DualMCU).
+
+![DualMCU](./img/EU0002-DUALMCU%20V3.1.2.jpg)
+
+## DualMCU ESP32+RP2040 
+
+Para obtener más información, consulte las páginas del producto en
+
+* https://uelectronics.com/
+* [Hardware-DualMCU](https://github.com/UNIT-Electronics/DualMCU/tree/main/Hardware)
+* [Product Reference Manual.pdf](https://github.com/UNIT-Electronics/DualMCU/blob/main/DualMCU(Product%20Reference%20Manual).pdf)
+* [C++ & Micropython Examples files for the UNIT DualMCU.](https://github.com/UNIT-Electronics/DualMCU/tree/main/Examples)
+
+
+---
+⌨️ con ❤️ por [UNIT-Electronics](https://github.com/UNIT-Electronics) 😊
