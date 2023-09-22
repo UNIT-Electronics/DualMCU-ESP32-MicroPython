@@ -1,6 +1,6 @@
 '''
 file: blink.py
-author: Cesar
+author: Cesar Bautista
 version: 0.0.1
 revision: 0.0.1
 context: This code is a basic configuration of three RGB Led's

@@ -10,12 +10,11 @@ Antes de comenzar, se recomienda realizar la siguiente configuración:
 
 Dirígete a *"Ejecutar"* -> *"Configurar intérprete"*  para completar la configuración.
 
- ![Interpeter](./img/config_intepeter.png)
+ ![Interpeter](img\config_intepeter.png)
 
 ### Actualización de firmware 
 Para poder utilizar MicroPython, es recomendable considerar la actualización. Por lo tanto, es necesario iniciar tu DualMCU ESP32 presionando el botón de FLASH.
 
-![flash](./img/ESP32-Flash_Button.jpg)
 
 1. Da clic en "Instalar o Actualizar MicroPython".
 
@@ -23,7 +22,7 @@ Para poder utilizar MicroPython, es recomendable considerar la actualización. P
     - Se recomienda utilizar la siguiente configuración: 
         - Variant: Espessif ESP32/WROOM
         - Version: 1.20.0
-![instalador](./img/instalador.png)
+![instalador](img\instalador.png)
 1. Presionar instalar (esperar a que termine la instalacion).
 
 
@@ -37,7 +36,7 @@ Dentro de la carpeta Ejemplos, encontrarás un ejemplo básico llamado "blink" q
 ```
 '''
 file: blink.py
-author: Cesar
+author: Cesar Bautista
 version: 0.0.1
 revision: 0.0.1
 context: This code is a basic configuration of three RGB Led's
@@ -68,10 +67,4 @@ loop()
 ## Proyecto en funcionamiento
 Una vez que hayas realizado todas las configuraciones y conexiones necesarias, podrás ver el proyecto en funcionamiento.
 
-![LedRGB](./img/blink_led2.gif)
-
-## Expande tu conocimiento 
-
-Para que continues aprendiendo, se te recomienda visitar el repositorio completo referente a la [DualMCU](https://github.com/UNIT-Electronics/DualMCU).
-
-![DualMCU](./img/EU0002-DUALMCU%20V3.1.2.jpg)
+![LedRGB](img\blink_led2.gif)
